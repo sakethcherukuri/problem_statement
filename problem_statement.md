@@ -8,6 +8,10 @@ We have the following media device as video pipeline to capture an image,
 
 In the actual hardware, the data is stored into memory using a VDMA.
 
+The difference can be seen in the following diagram,
+
+![drawio](Problem_statement.drawio.svg)
+
 ## CMV Sensor
 
 * The sensor is capable of sending 10/12 bits per pixel (bpp).
